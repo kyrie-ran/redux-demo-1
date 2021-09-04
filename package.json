@@ -1,0 +1,11 @@
+{
+  "name": "redux-demo-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://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@github.com/kyrie-ran/redux-demoe-1.git",
+  "author": "陈浩然 <1638238157@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.1.1"
+  }
+}
