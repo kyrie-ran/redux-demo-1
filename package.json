@@ -7,5 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "redux": "^4.1.1"
-  }
+  },
+  "scripts": {
+      "start": "nodemon --experimental-modules index.js"
+  },
+  "type": "module"
 }
